@@ -1,0 +1,12 @@
+#pragma once
+#include <iostream>
+#include <fstream>
+#include <vector>
+#include <map>
+#include <sstream>
+#include <tuple>
+#include <algorithm>
+#include <set>
+#include <regex>
+#include "Split.h"
+#include "Printers.h"
